@@ -1,0 +1,15 @@
+D:\dotnet\assignment 2\branch & loop\bin\Debug\net6.0\branch & loop.exe
+D:\dotnet\assignment 2\branch & loop\bin\Debug\net6.0\branch & loop.deps.json
+D:\dotnet\assignment 2\branch & loop\bin\Debug\net6.0\branch & loop.runtimeconfig.json
+D:\dotnet\assignment 2\branch & loop\bin\Debug\net6.0\branch & loop.dll
+D:\dotnet\assignment 2\branch & loop\bin\Debug\net6.0\ref\branch & loop.dll
+D:\dotnet\assignment 2\branch & loop\bin\Debug\net6.0\branch & loop.pdb
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\branch & loop.csproj.AssemblyReference.cache
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\branch & loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\branch & loop.AssemblyInfoInputs.cache
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\branch & loop.AssemblyInfo.cs
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\branch & loop.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\branch & loop.dll
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\ref\branch & loop.dll
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\branch & loop.pdb
+D:\dotnet\assignment 2\branch & loop\obj\Debug\net6.0\branch & loop.genruntimeconfig.cache
